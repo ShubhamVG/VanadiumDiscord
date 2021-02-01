@@ -1,3 +1,5 @@
+"""This is not for use or anything. Just an experimental try."""
+
 import asyncio, discord, tkinter.scrolledtext
 from discord.ext import commands, tasks
 import threading
